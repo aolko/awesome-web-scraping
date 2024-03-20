@@ -31,7 +31,9 @@ This list contains PHP libraries related to web scraping and data processing
 * [Buzz](https://github.com/kriswallsmith/Buzz) - Another HTTP client.
 * [Requests](https://github.com/rmccue/Requests) - A simple HTTP library.
 * [HTTPFul](https://github.com/nategood/httpful) - A chainable HTTP client.
-* [Goutte](https://github.com/fabpot/Goutte) - A simple web scraper.
+* ~~Goutte - A simple web scraper.~~ 
+> [!WARNING] 
+> Deprecated, use [BrowserKit](https://symfony.com/doc/current/components/browser_kit.html).
 * [PHP Spider](https://github.com/mvdbos/php-spider) - A comprehensive web spider.
 
 
